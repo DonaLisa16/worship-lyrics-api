@@ -3,9 +3,135 @@
     "id": "1",
     "title": "Amazing Grace",
     "artist": "John Newton",
-    "lyrics": "Amazing grace, how sweet the sound, that saved a wretch like me.",
+    "lyrics": "ADD_LYRICS_HERE",
     "popularityScore": 97,
     "viewCount": 420,
-    "image": ""
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "What A Beautiful Name",
+    "artist": "Hillsong Worship",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 96,
+    "viewCount": 390,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Here I Am To Worship",
+    "artist": "Tim Hughes",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 94,
+    "viewCount": 361,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/3.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Reckless Love",
+    "artist": "Cory Asbury",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 92,
+    "viewCount": 348,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/4.jpg"
+  },
+  {
+    "id": "5",
+    "title": "10,000 Reasons",
+    "artist": "Matt Redman",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 93,
+    "viewCount": 332,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/5.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Way Maker",
+    "artist": "Sinach",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 95,
+    "viewCount": 371,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/6.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Build My Life",
+    "artist": "Pat Barrett",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 90,
+    "viewCount": 284,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/7.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Goodness Of God",
+    "artist": "Bethel Music",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 91,
+    "viewCount": 307,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/8.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Oceans",
+    "artist": "Hillsong UNITED",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 89,
+    "viewCount": 293,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/9.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Hosanna",
+    "artist": "Hillsong Worship",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 88,
+    "viewCount": 275,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/10.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Mighty To Save",
+    "artist": "Hillsong Worship",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 87,
+    "viewCount": 264,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/11.jpg"
+  },
+  {
+    "id": "12",
+    "title": "King Of Kings",
+    "artist": "Hillsong Worship",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 90,
+    "viewCount": 299,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/12.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Living Hope",
+    "artist": "Phil Wickham",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 89,
+    "viewCount": 282,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/13.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Gratitude",
+    "artist": "Brandon Lake",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 86,
+    "viewCount": 250,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/14.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Come Thou Fount",
+    "artist": "Traditional",
+    "lyrics": "ADD_LYRICS_HERE",
+    "popularityScore": 85,
+    "viewCount": 236,
+    "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/15.jpg"
   }
 ]
