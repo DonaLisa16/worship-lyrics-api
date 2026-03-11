@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "Amazing Grace",
+    "artist": "John Newton",
+    "lyrics": "Amazing grace, how sweet the sound, that saved a wretch like me.",
+    "popularityScore": 97,
+    "viewCount": 420,
+    "image": ""
+  }
+]
