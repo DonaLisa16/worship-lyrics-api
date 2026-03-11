@@ -3,10 +3,7 @@
     "id": "1",
     "title": "Amazing Grace",
     "artist": "John Newton",
-    "lyrics": "1.Amazing grace (how sweet the sound)/n
-that saved a wretch like me!/n
-I once was lost, but now am found,/n
-was blind, but now I see.",/n
+    "lyrics": "Amazing grace how sweet the sound\nThat saved a wretch like me\nI once was lost but now am found\nWas blind but now I see"
     "popularityScore": 97,
     "viewCount": 420,
     "image": "https://raw.githubusercontent.com/DonaLisa16/worship-lyrics-api/main/images/1.jpg"
